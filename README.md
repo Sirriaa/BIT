@@ -46,8 +46,16 @@
 
 ## 🏃‍♂️ 빠른 실행
 
-1. **필수 라이브러리 설치**:
-   프로젝트 디렉토리에서 필요한 Python 패키지를 설치합니다.
+1. **머신러닝 실행**:
+   웹사이트내의 AI를 작동시키 위해 필요한 Python 명령어를 실행합니다.
 
    ```bash
-   pip install -r requirements.txt
+   python auto.py
+
+2. **서버 실행**:
+   서버를 여는데 필요한 명령어를 실행합니다.
+   
+   ```bash
+   npm start
+   
+   
